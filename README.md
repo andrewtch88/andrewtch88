@@ -1,16 +1,23 @@
-### Hi there 👋
+hello! here's a little about me:
 
-<!--
-**andrewtch88/andrewtch88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  i really like music :headphones:
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p></p>
+
+<h1>
+  i was a fullstack laravel intern at ISCity
+</h1>
+
+<h1>
+  i'm a react.js fanboy, but i do some other stuff too :hammer:
+</h1>
